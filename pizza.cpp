@@ -35,4 +35,5 @@ QString Pizza::toString(){
     for (int i = 0; i < toppings->size(); i++) {
         str.append(toppings->at(i) + "\n");
     }
+    return str;
 }

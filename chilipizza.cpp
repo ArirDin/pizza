@@ -1,7 +1,6 @@
 #include "chilipizza.h"
 
-ChiliPizza::ChiliPizza()
-{
+ChiliPizza::ChiliPizza() {
     name = "Chili Pizza";
     dough = "Regular Crust";
     sauce = "Chili Sauce";
