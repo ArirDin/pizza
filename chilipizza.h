@@ -3,8 +3,7 @@
 
 #include "pizza.h"
 
-class ChiliPizza : public Pizza
-{
+class ChiliPizza : public Pizza {
 public:
     ChiliPizza();
 };
